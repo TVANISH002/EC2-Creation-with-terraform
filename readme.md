@@ -1,5 +1,3 @@
-Creating EC2 INSTANCE USING TERRAFORM
-
 # 🚀 AWS Infrastructure Provisioning with Terraform
 
 This project demonstrates a **production-style Infrastructure as Code (IaC) setup** using Terraform to provision and manage AWS resources. It follows best practices such as **remote state management, state locking, and modular infrastructure design**.
